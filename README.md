@@ -2,7 +2,7 @@
 
 A modern, responsive K-12 school website built as a frontend assignment for Eak Pustak.
 
-**Live:** (Vercel link yahan jodna)
+**Live:**
 **Code:** https://github.com/Pooja7345/eak-international-school
 
 ## Tech stack
