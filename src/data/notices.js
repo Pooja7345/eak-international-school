@@ -1,0 +1,16 @@
+export const notices = [
+  { id: 1, category: 'Circular', date: '2026-10-10', title: 'Winter Uniform from 1 November', text: 'Students will switch to the winter uniform. Blazers are available at the school store.' },
+  { id: 2, category: 'Exam', date: '2026-10-08', title: 'Half-Yearly Exam Date Sheet Released', text: 'Exams for Classes 6–12 begin on 20 November. Check the date sheet on the notice board.' },
+  { id: 3, category: 'Competition', date: '2026-10-05', title: 'Inter-School Quiz Registrations Open', text: 'Teams of three from Classes 8–10 can register with their class teacher by 18 October.' },
+  { id: 4, category: 'Holiday', date: '2026-10-01', title: 'Closed on 2 October (Gandhi Jayanti)', text: 'Classes resume on Saturday as per the regular schedule.' },
+  { id: 5, category: 'Event', date: '2026-11-15', title: 'Annual Day 2026', text: 'An evening of music, dance and drama in the school auditorium at 5:00 PM.' },
+  { id: 6, category: 'Event', date: '2026-11-22', title: 'Science & Innovation Fair', text: 'Students of Classes 6–12 present working models and research projects.' },
+  { id: 7, category: 'Holiday', date: '2026-11-12', title: 'Diwali Break Notice', text: 'School remains closed from 9 to 13 November. Classes resume on 14 November.' },
+  { id: 8, category: 'Circular', date: '2026-09-28', title: 'Parent Portal Login Now Active', text: 'Parents can view attendance, fee receipts and circulars using the new portal.' },
+  { id: 9, category: 'Competition', date: '2026-12-02', title: 'Inter-House Sports Meet', text: 'Track and field events for Classes 3–12. Houses must submit entries by 25 November.' },
+  { id: 10, category: 'Event', date: '2026-12-05', title: 'Parent–Teacher Meeting', text: 'Review first-term progress with class teachers between 9:00 AM and 1:00 PM.' },
+  { id: 11, category: 'Exam', date: '2026-09-20', title: 'Pre-Board Schedule for Class 10 & 12', text: 'Pre-board exams begin in the first week of December. Syllabus details are in the circular.' },
+  { id: 12, category: 'Holiday', date: '2026-12-24', title: 'Winter Break from 25 December', text: 'School closes on 25 December and reopens on 5 January 2027.' },
+  { id: 13, category: 'Circular', date: '2026-09-15', title: 'Bus Route Changes from October', text: 'Routes 4 and 7 have revised pick-up timings. See the transport office for details.' },
+  { id: 14, category: 'Competition', date: '2026-11-08', title: 'Inter-School Debate Championship', text: 'Our team will represent EAK at the district debate on 8 November.' },
+]
